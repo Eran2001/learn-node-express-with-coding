@@ -6,7 +6,7 @@
 
 ## 4. Section Intro
 
-**What is this:** A quick overview of what will be covered in this section of the course.
+**What is this:** A quick overview of what will be covered in this section of the course
 
 **Description:** The instructor introduces the topics for this section: what Node.js is, how it works, core modules, file I/O, building a simple web server, routing, templating, and working with NPM packages.
 
